@@ -1,0 +1,37 @@
+1. Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax for.
+Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk memenuhi syarat tertentu yaitu:
+A. Jika angka bisa dibagi 2 maka tampilkan Saya 
+B. Jika angka bisa dibagi 5 maka tampilkan Ganteng 
+C. Jika angka bisa dibagi 2 dan 5 maka tampilkan Saya Ganteng 
+D. Jika angka tidak bisa dibagi 2 dan 5 maka tampilkan angka itu sendiri
+
+  Output :
+1
+Saya
+3
+Saya
+Ganteng
+Saya
+7
+Saya
+9
+Saya Ganteng
+
+2. Buatlah sebuah segitiga dengan output seperti dibawah:
+
+12345
+ 2345
+  345
+   45
+    5
+
+
+3. Buatlah dengan menggunakan looping untuk menghasilkan angka genap yang mencetak di console "i love coding" dengan batas angka maksimal 20
+
+	Contoh hasil: 
+2 - I love coding
+4 - I love coding
+6 - I love coding
+8 - I love coding
+
+
